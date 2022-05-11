@@ -178,7 +178,7 @@
         }).then(
             response => response.json()
         ).then((html) => {
-            window.location.href = './thankyou.html?fb_pixel_id=932767647301597';
+            window.location.href = './thankyou.html?fb_pixel_id=600493857630184';
         });
         
     }
